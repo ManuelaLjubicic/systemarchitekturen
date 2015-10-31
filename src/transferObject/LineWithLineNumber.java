@@ -5,7 +5,7 @@ import interfaces.Writeable;
 /**
  * Created by manue on 31.10.2015.
  */
-public class LineWithLineNumber implements Writeable<> {
+public class LineWithLineNumber {
 
     String _line;
     int _lineNumber;
